@@ -326,8 +326,8 @@ ul {
 
 .footer {
     background-color: #464646;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .footer-text {
@@ -343,4 +343,12 @@ ul {
 
 #footer-links {
     text-decoration: none;
+}
+
+.btn {
+    margin-left: 42%;
+}
+
+form {
+    padding-top: 15%;
 }
